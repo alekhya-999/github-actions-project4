@@ -10,6 +10,10 @@ jobs:
           uses: azure/login@v1
           with:
             creds: ${{  secrets.azure }}   #calling sp ids 
+       
+        - name: terraform install
+          uses: hashicorp/setup-terraform@v3   
+           
         - name : terraform init
           working-directory: Terraform-infra
           run: terraform init
