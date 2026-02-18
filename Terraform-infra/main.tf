@@ -21,4 +21,9 @@ resource "azurerm_app_service" "webapp" {
   resource_group_name = azurerm_resource_group.webapprg.name
   app_service_plan_id = azurerm_app_service_plan.asp.id
 
+  site_config {
+    current_stack = "dotnetcore"
+    dotnet_version = "V8.0"
+  }
+
 }
