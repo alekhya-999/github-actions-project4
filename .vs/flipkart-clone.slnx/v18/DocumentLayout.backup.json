@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Azure-AWS\\Devops Project implementation\\Github Actions\\github-actions-project4\\flipkart-clone\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4DC0B07-D896-4899-89D9-2AFCF4803904}|flipkart-clone.csproj|c:\\azure-aws\\devops project implementation\\github actions\\github-actions-project4\\flipkart-clone\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4DC0B07-D896-4899-89D9-2AFCF4803904}|flipkart-clone.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Azure-AWS\\Devops Project implementation\\Github Actions\\github-actions-project4\\flipkart-clone\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "C:\\Azure-AWS\\Devops Project implementation\\Github Actions\\github-actions-project4\\flipkart-clone\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAuwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-18T04:58:45.65Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
