@@ -37,7 +37,7 @@ jobs:
         - name: publish app
           run: dotnet publish flipkart-clone.csproj -c Release -o publish
         - name: deploy webapp
-          uses: actions/webapp-deploy@v4
+          uses: azure/webapp-deploy@v4
           with: 
             app name: testapp9657
             package: publish
